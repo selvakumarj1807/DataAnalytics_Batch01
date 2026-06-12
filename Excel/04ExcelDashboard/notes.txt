@@ -1,0 +1,32 @@
+Excel Dashboard:
+----------------
+
+An Excel Dashboard is an interactive report that visually displays key metrics, 
+trends, and performance indicators using charts, tables, slicers, and KPIs.
+
+Typical Components of an Excel Dashboard
+-----------------------------------------
+1. Charts
+
+    1. Bar charts
+    2. Line charts
+    3. Pie/Donut charts
+    4. Combo charts
+
+2. KPIs (Key Performance Indicators)
+
+    1. Revenue
+    2. Profit
+    3. Sales Growth
+    4. Customer Count
+
+3. Interactive Filters
+
+    1. Slicers
+    2. Drop-down lists
+    3. Timeline filters
+
+4. Summary Tables
+
+    1. Pivot Tables
+    2. Dynamic reports
